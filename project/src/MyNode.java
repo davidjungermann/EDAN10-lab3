@@ -7,7 +7,7 @@ package tree;
  * @see MyTree
  */
 
-// Hej alla, välkomna till mitt repo :)
+// Hej alla, välkomna till mitt repo :) Tack David. Välkommen du med!
 
 public class MyNode {
   private MyNode father;
