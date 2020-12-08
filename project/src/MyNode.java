@@ -6,6 +6,9 @@ package tree;
  * @author Torbjorn Ekman
  * @see MyTree
  */
+
+// Hej alla, välkomna till mitt repo :)
+
 public class MyNode {
   private MyNode father;
   private MyNode left;
