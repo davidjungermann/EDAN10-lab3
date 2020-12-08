@@ -8,7 +8,7 @@ package tree;
  */
 
 // Hej alla, välkomna till mitt repo :)
-
+// Denna fil är väldigt viktig. 
 public class MyNode {
   private MyNode father;
   private MyNode left;
