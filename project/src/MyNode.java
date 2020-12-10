@@ -82,7 +82,7 @@ public class MyNode {
   /**
    * Gets the left child of this node.
    *
-   * @return The current left child of this node.
+   * @return The current left child of this node.fasdfasdf
    */
   public MyNode getLeftChild() {
     return left;
