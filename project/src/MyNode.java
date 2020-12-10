@@ -10,6 +10,7 @@ package tree;
 
 // Hej alla, välkomna till mitt repo :)
 // Denna fil är väldigt viktig. 
+// Här kan ni testa att använda git diff. 
 public class MyNode {
   private MyNode father;
   private MyNode left;
